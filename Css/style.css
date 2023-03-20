@@ -1,0 +1,189 @@
+body{
+    background-color: black;
+    font-family: 'Raleway', sans-serif;
+    
+     }  
+     .logo{
+    width: 160px;
+    
+    
+    
+     }
+    
+     .nav {
+    
+         font-size: 35px;
+         color: rgba(255, 212, 0, 0.9);
+     } 
+     .info , .heading{
+         font-size: 28px;
+         color: cornsilk;
+     }
+     .heading2{
+         color:  rgba(255, 212, 0, 0.9);
+     }
+     pre{
+         font-size: 15px;
+         color: cornsilk;
+         text-align: center;
+     }  
+     b{
+         font-size: 20px;
+         color: rgba(255, 212, 0, 0.9) ;
+     }  
+     a{
+            text-decoration: none;
+            color: rgba(255, 212, 0, 0.9);
+    
+        }
+        .Search,.Submit{
+            color:rgba(255, 212, 0, 0.9);
+            background-color: rgba(0, 0, 0, 0.548);
+        }
+        button{
+            font-size: 15px;
+        }
+        .banner{
+    
+            width: 100%;
+        }
+        h3{
+            color: rgba(255, 212, 0, 0.9);
+        }
+        form{
+    color:rgba(255, 212, 0, 0.9) ;
+    font-size: 18px;
+    
+        }
+        .regi{
+    width: 14%;
+    height: 50%;
+    margin-left: 40%;
+    
+        }
+        .feedback{
+            width: 14%;
+            height: 50%;
+            position: absolute;
+            left: 200px;
+            top: 340px;
+
+        }
+        .map{
+            position: absolute;
+            left: 700px;
+            top: 340px;
+            
+
+
+        }
+        .footer{
+            position: relative;
+            top: 600px;
+
+        }
+        .pro{
+
+        background-color:  rgba(255, 212, 0, 0.9);
+        width: 300px;height: 200px;
+        }
+        .Training{
+
+            width: 650px; height: 350px;
+            padding: 40px;
+        }
+        table{
+            width: 60%;
+            margin-left: 300px;
+        }
+        table,th,td{
+
+            border:1px  rgba(255, 212, 0, 0.9) solid;
+            border-collapse: collapse;
+
+        }
+        th,td{
+            padding: 20px;
+            text-align: center;
+            font-size: 18px;
+
+        }
+        tr:nth-child(even){
+            background-color:  rgba(255, 212, 0, 0.9);
+
+        }
+        tr:nth-child(odd){
+            color: rgba(255, 212, 0, 0.9);
+        }
+        thead,tr:only-child{
+            background-color:  rgba(255, 212, 0, 0.9);
+            color: black;
+            
+        }
+        caption{
+            text-align: center;
+            font-size: 25px;
+            color:  cornsilk;
+        }
+        .div1{
+            position: absolute;
+        }
+        .div2{
+            position: absolute;
+            left: 375px;
+        }
+        .div3{
+            position: absolute;
+            left: 760px;
+        }
+        .div4{
+            position: absolute;
+            left: 1150px;
+        }
+        .div5{
+            position: absolute;
+            top: 750px;
+        }
+        .div6{
+            position: absolute;
+            left: 375px;
+            top: 750px;
+        }
+        .div7{
+            position: absolute;
+            left: 760px;
+            top: 750px;
+        }
+        .div8{
+            position: absolute;
+            left: 1150px;
+            top: 750px;
+        }
+        .div9{
+            position: absolute;
+            top: 1025px;   
+        }
+        .div0{
+            position: absolute;
+            top: 1025px;
+            left: 375px;   
+        }
+        .div11{
+            position: absolute;
+            top: 1025px; 
+            left: 760px;  
+        }
+        .div12{
+            position: absolute;
+            top: 1025px; 
+            left: 1150px;  
+        }
+        .div13{
+            position: absolute;
+            top: 1300px;   
+        }
+        .div14{
+            position:absolute;
+            top: 1620px;
+            width: 100%;
+        }
